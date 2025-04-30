@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Twitch",
+    "url": "https://www.twitch.tv",
+    "icono": "🌐"
+  },
+  {
+    "nombre": "Optijuegos",
+    "url": "https://www.optijuegos.net",
+    "icono": "🌐"
+  },
+  {
+    "nombre": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "icono": "🌐"
+  },
+  {
+    "nombre": "https://www.youtube.com",
+    "url": "https://www.youtube.com/",
+    "icono": "🌐"
+  }
+]
